@@ -17,3 +17,5 @@ public class Dice{
 		System.out.println("The total is " +  (roll1 + roll2) + "!");
 	}
 }
+
+//I updated the original code by adding this comment.
